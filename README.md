@@ -7,3 +7,5 @@
 
 https://github.com/hajnayeb/Judder/assets/74108898/467eda42-e76b-4333-ac5f-69e3507e9573
 
+**- Waterfall diagram of vibrations in the y-direction on the steering wheel:**
+![image](https://github.com/hajnayeb/Judder/assets/74108898/1aecac6c-d06a-45e5-8f4e-166159953dbb)
